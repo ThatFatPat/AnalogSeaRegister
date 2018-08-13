@@ -1,0 +1,78 @@
+body{
+  background: linear-gradient(rgb(25, 193, 255), rgb(121, 219, 255));
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  -webkit-background-size: cover; /* For WebKit*/
+  -moz-background-size: cover;    /* Mozilla*/
+  -o-background-size: cover;      /* Opera*/
+}
+.logo{
+  display: block;
+  width: auto;
+  height: 35px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+.back{
+  box-sizing: border-box;
+  max-width: 400px;
+  width: 100%;
+  height: 450px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 40px;
+  padding-right: 40px;
+  border: 0px solid lightgray;
+  border-radius: 2px;
+  background-color: white;
+}
+h1{
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: #cfcfcf;
+  padding: 30px;
+}
+input{
+  box-sizing: border-box;
+  height: 55px;
+  max-width: 320px;
+  width: 100%;
+  border: 2px solid lightgray;
+  border-radius: 4px;
+  padding: 15px;
+  display: block;
+  margin-left: auto;
+  font-size: 16px;
+  margin-right: auto;
+}
+button{
+  box-sizing: border-box;
+  height: 55px;
+  width: 320px;
+  padding: 15px;
+  border: 2px solid transparent;
+  border-radius: 4px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #00c22b;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+}
+p{
+  font-weight: bold;
+  color: white;
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+a{
+  color: white;
+}
