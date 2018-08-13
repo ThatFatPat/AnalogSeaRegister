@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Archivo');
 body{
   background: linear-gradient(rgb(25, 193, 255), rgb(121, 219, 255));
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: 'Archivo', sans-serif;
   background-attachment: fixed;
   -webkit-background-size: cover; /* For WebKit*/
   -moz-background-size: cover;    /* Mozilla*/
